@@ -36,8 +36,8 @@ out/
 # 환경 설정 및 로컬 파일
 *.properties
 *.yml
-!src/main/resources/*.properties
-!src/main/resources/*.yml
+# !src/main/resources/*.properties
+# !src/main/resources/*.yml
 # 데이터베이스 파일, 로그
 *.log
 .DS_Store
